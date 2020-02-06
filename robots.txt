@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tiipuemiuk.foundweekends.org/sitemap.xml
